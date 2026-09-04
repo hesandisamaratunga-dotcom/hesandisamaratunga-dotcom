@@ -13,32 +13,43 @@
 
 ### About Me
 
-I'm a fifth-semester **Information & Electrical Engineering** student at HAW Hamburg, focused on embedded systems, IoT, and automation. My favorite part of engineering is the whole chain: figuring out the architecture, wiring up the hardware, writing the code, and watching the data actually make sense.
+I'm a fifth-semester **Information & Electrical Engineering** student at HAW Hamburg, focused on embedded systems, IoT, automation and power electronics. My favorite part of engineering is the whole chain: figuring out the architecture, wiring up the hardware, writing the code, and watching the data actually make sense.
 
-**Right now:**
-**Electrical Engineering Student Assistant** @ the Electrical Engineering Department at HAW Hamburg
-**Student Assistant** @ the Kulture Café at HAW Hamburg
-About to start as a **Working Student in Software & Simulation Automation Engineer**
-
-- B.Sc. Information (& Electrical) Engineering, expected graduation 2027
+- B.Sc. Information (& Electrical) Engineering
 - Sri Lankan, based in Hamburg, Germany
 
 ---
 
 ### Experience
 
-**IoT & Sensor Systems Engineering Intern** — MycoLutions GmbH · *completed, 20 weeks*
-Designed and implemented a full IoT pipeline for a mushroom incubation room: sensor architecture → LoRaWAN gateway → Datacake cloud platform → real-time dashboards (Grafana / Power BI) with threshold alerting and ventilation automation. Came out of it fluent in the whole stack — protocol selection, gateway setup, cloud integration, and dashboard design.
+- **IoT & Sensor Systems Engineering Intern** @MycoLutions GmbH · *completed, 20 weeks mandatory internship*
 
-**Student Assistant — Electrical Engineering** — HAW Hamburg · *current*
+Designed and implemented a full IoT pipeline for a mushroom incubation room: sensor architecture → LoRaWAN gateway → Datacake cloud platform → real-time dashboards (Grafana / Power BI) with threshold alerting and ventilation automation. Came out of it fluent in the whole stack from protocol selection, gateway setup, cloud integration to dashboard design.
+
+- **Electrical Engineering Student Assistant** @HAW Hamburg · *current*
+
 Supporting the Applied Power Electronics elective, including switch-mode power supply prototyping, circuit design and testing, and lab material preparation.
 
-**Working Student — Software & Simulation Automation Engineer** · *starting soon*
+- **Student Assistant/Tutor** @HAW Hamburg Kulture Café · *current*
+
+Working to build a welcoming campus environment for international and domestic students.Event planning, content creation, and social media management.
+
+- **Working Student — Software & Simulation Automation Engineer** · *starting soon*
+
+Will announce soon:) Pretty excited.....!!
+
+---
 
 ### Projects
 
-**Basketball Robot** — HAW Hamburg
+- **Basketball Robot** @HAW Hamburg
+  
 Arduino-based robot with motor control, sensor + actuator integration, and scoring logic. 2nd place, LSL2 robotics competition.
+
+- **Voluntary Student Project** in Power Electronics Development
+
+  Supporting development of elective course in Applied Power Electronics using Voltage regulator. Currently developing switch-mode power supply prototype.
+Assisting the professor with laboratory material preparation for future work. Hands-on experience in circuit design and testing.
 
 ---
 
@@ -57,6 +68,9 @@ Arduino-based robot with motor control, sensor + actuator integration, and scori
 **IoT & Embedded Systems**
 
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2C3E50?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Code Composer Studio](https://img.shields.io/badge/Code%20Composer%20Studio-CC0000?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Datacake](https://img.shields.io/badge/Datacake-1ABC9C?style=for-the-badge)
@@ -76,18 +90,18 @@ Arduino-based robot with motor control, sensor + actuator integration, and scori
 
 ### Education
 
-**B.Sc. Information (& Electrical) Engineering** — HAW Hamburg
-Apr 2024 – Present (expected graduation 2027)
-Electrical Engineering, Electronics, Microcontrollers, Digital Circuits & Systems (VHDL, FPGA), Signals & Systems, Algorithms & Data Structures, Databases, Software Engineering
+**B.Sc. Information (& Electrical) Engineering**  @HAW Hamburg
+Apr 2024 – Present 
+
+Core modules: Electrical Engineering, Electronics, Microcontrollers, Digital Circuits & Systems, Signals & Systems, Algorithms & Data Structures, Databases, Software Engineering, Software Construction, Engineering Mathematics
 
 ---
 
 ### Volunteering
 
-- **Rotaract Hamburg International Club** — Social Media Manager
-- **WeBuddy Program** — Supporting international students settling into HAW Hamburg
-- **Kultur Café (CamPuls+ & International Office)** — Student assistant & tutor, event planning and community building
-
+- **Rotaract Hamburg International Club** as a Social Media Manager
+- **WeBuddy Program** as a buddy, Supporting international students settling into HAW Hamburg
+  
 ---
 
 ### Languages
@@ -102,6 +116,5 @@ Electrical Engineering, Electronics, Microcontrollers, Digital Circuits & System
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hesandisamaratunga@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hesandisamaratunga-dotcom)
 
-<p align="center"><i>Designing reliable systems, one sensor at a time.</i></p>
 ### Connect with me
 
