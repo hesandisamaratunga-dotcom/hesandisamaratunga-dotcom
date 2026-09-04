@@ -34,7 +34,7 @@ Supporting the Applied Power Electronics elective, including switch-mode power s
 
 Working to build a welcoming campus environment for international and domestic students.Event planning, content creation, and social media management.
 
-- **Working Student — Software & Simulation Automation Engineer** · *starting soon*
+- **Working Student in Software & Simulation Automation Engineer** · *starting soon*
 
 Will announce soon:) Pretty excited.....!!
 
