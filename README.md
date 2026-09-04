@@ -1,4 +1,4 @@
-<img width="6912" height="3456" alt="Your paragraph text (4)" src="https://github.com/user-attachments/assets/87e97487-3628-4921-a495-a70783a6fb8b" />
+<img width="6912" height="3456" alt="Untitled design" src="https://github.com/user-attachments/assets/1ba2cf5e-d889-4c29-879f-840ce34787fc" />
 <h3 align="center">Information & Electrical Engineering Student @ HAW Hamburg</h3>
 
 
