@@ -13,11 +13,13 @@
 
 ### About Me
 
-I'm a fifth-semester **Information & Electrical Engineering** student at HAW Hamburg, focused on embedded systems, IoT, and automation. I like taking a project from sensor to dashboard — designing the architecture, wiring up the hardware, and making the data mean something.
+I'm a fifth-semester **Information & Electrical Engineering** student at HAW Hamburg, focused on embedded systems, IoT, and automation. My favorite part of engineering is the whole chain: figuring out the architecture, wiring up the hardware, writing the code, and watching the data actually make sense.
 
-- Wrapped up a 20-week internship as an **IoT & Sensor Systems Engineer** at MycoLutions GmbH, where I built a full IoT pipeline end-to-end and picked up hands-on skills in sensor architecture, LoRaWAN communication, cloud integration, and real-time dashboarding
-- Currently a **Student Assistant — Electrical Engineering** at HAW Hamburg
-- Starting soon as a **Working Student — Software & Simulation Automation Engineer**
+**Right now:**
+**Electrical Engineering Student Assistant** @ the Electrical Engineering Department at HAW Hamburg
+**Student Assistant** @ the Kulture Café at HAW Hamburg
+About to start as a **Working Student in Software & Simulation Automation Engineer**
+
 - B.Sc. Information (& Electrical) Engineering, expected graduation 2027
 - Sri Lankan, based in Hamburg, Germany
 
