@@ -1,4 +1,4 @@
-<img width="6912" height="3456" alt="#software, but with wires) (1)" src="https://github.com/user-attachments/assets/ce395fcb-daeb-4a95-8819-eb45a299101e" />
+<img width="6912" height="3456" alt="#software, but with wires) (2)" src="https://github.com/user-attachments/assets/b770511a-2a6c-4b82-b5b8-da4ce4246420" />
 <h3 align="center">Information & Electrical Engineering Student @ HAW Hamburg</h3>
 
 
