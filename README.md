@@ -23,15 +23,17 @@ I'm a fifth-semester **Information & Electrical Engineering** student at HAW Ham
 ### Experience
 
 - **IoT & Sensor Systems Engineering Intern**
-- @MycoLutions GmbH · *completed, 20 weeks mandatory internship*
+  @MycoLutions GmbH · *completed, 20 weeks mandatory internship*
 
 Designed and implemented a full IoT pipeline for a mushroom incubation room: sensor architecture → LoRaWAN gateway → Datacake cloud platform → real-time dashboards (Grafana / Power BI) with threshold alerting and ventilation automation. Came out of it fluent in the whole stack from protocol selection, gateway setup, cloud integration to dashboard design.
 
-- **Electrical Engineering Student Assistant** @HAW Hamburg Faculty of Electrical & Information Technology (EMI)· *current*
+- **Electrical Engineering Student Assistant**
+  @HAW Hamburg Faculty of Electrical & Information Technology (EMI)· *current*
 
 Supporting the Applied Power Electronics elective, including switch-mode power supply prototyping, circuit design and testing, and lab material preparation.
 
-- **Student Assistant/Tutor** @HAW Hamburg Kulture Café · *current*
+- **Student Assistant/Tutor**
+  @HAW Hamburg Kulture Café · *current*
 
 Working to build a welcoming campus environment for international and domestic students.Event planning, content creation, and social media management.
 
