@@ -22,7 +22,8 @@ I'm a fifth-semester **Information & Electrical Engineering** student at HAW Ham
 
 ### Experience
 
-- **IoT & Sensor Systems Engineering Intern** @MycoLutions GmbH · *completed, 20 weeks mandatory internship*
+- **IoT & Sensor Systems Engineering Intern**
+- @MycoLutions GmbH · *completed, 20 weeks mandatory internship*
 
 Designed and implemented a full IoT pipeline for a mushroom incubation room: sensor architecture → LoRaWAN gateway → Datacake cloud platform → real-time dashboards (Grafana / Power BI) with threshold alerting and ventilation automation. Came out of it fluent in the whole stack from protocol selection, gateway setup, cloud integration to dashboard design.
 
