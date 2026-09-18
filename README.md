@@ -28,17 +28,18 @@ I'm a fifth-semester **Information & Electrical Engineering** student at HAW Ham
 
 Designed and implemented a full IoT pipeline for a mushroom incubation room: sensor architecture → LoRaWAN gateway → Datacake cloud platform → real-time dashboards (Grafana / Power BI) with threshold alerting and ventilation automation. Came out of it fluent in the whole stack from protocol selection, gateway setup, cloud integration to dashboard design.
 
+- **Student Assistant & Tutor**
+  
+  --@HAW Hamburg Kulture Café · *current*
+
+Working to build a welcoming campus environment for international and domestic students. Event planning, Project managemnet, content creation, and social media management.
+
 - **Electrical Engineering Student Assistant**
   
   --@HAW Hamburg Faculty of Electrical & Information Technology (EMI) · *current*
 
 Supporting the Applied Power Electronics elective, including switch-mode power supply prototyping, circuit design and testing, and lab material preparation.
 
-- **Student Assistant/Tutor*
-  
-  --@HAW Hamburg Kulture Café · *current*
-
-Working to build a welcoming campus environment for international and domestic students.Event planning, content creation, and social media management.
 
 - **Working Student in Software & Simulation Automation Engineer** · *starting soon*
 
