@@ -41,9 +41,9 @@ Working to build a welcoming campus environment for international and domestic s
 Supporting the Applied Power Electronics elective, including switch-mode power supply prototyping, circuit design and testing, and lab material preparation.
 
 
-- **Working Student in Software & Simulation Automation Engineer** · *current*
+- **Working Student in Software & Simulation Automation Engineer** · *October 2026 - current*
 
---@Amprion GmbH, Hamburg. Supporting the HVDC Offshore Wind Park Connection
+--@Amprion GmbH, Hamburg. Supporting the HVDC Offshore Wind Park Connection.
 
 ---
 
