@@ -24,26 +24,26 @@ I'm a fifth-semester **Information & Electrical Engineering** student at HAW Ham
 
 - **IoT & Sensor Systems Engineering Intern**
   
-  --@MycoLutions GmbH · *completed, 20 weeks mandatory internship*
+  --@MycoLutions GmbH · *completed, 20 weeks mandatory internship* · *April - August 2026*
 
 Designed and implemented a full IoT pipeline for a mushroom incubation room: sensor architecture → LoRaWAN gateway → Datacake cloud platform → real-time dashboards (Grafana / Power BI) with threshold alerting and ventilation automation. Came out of it fluent in the whole stack from protocol selection, gateway setup, cloud integration to dashboard design.
 
 - **Student Assistant & Tutor**
   
-  --@HAW Hamburg Kulture Café · *current*
+  --@HAW Hamburg Kulture Café · *June - September 2026*
 
 Working to build a welcoming campus environment for international and domestic students. Event planning, Project managemnet, content creation, and social media management.
 
 - **Electrical Engineering Student Assistant**
   
-  --@HAW Hamburg Faculty of Electrical & Information Technology (EMI) · *current*
+  --@HAW Hamburg Faculty of Electrical & Information Technology (EMI) · *September 2026*
 
 Supporting the Applied Power Electronics elective, including switch-mode power supply prototyping, circuit design and testing, and lab material preparation.
 
 
-- **Working Student in Software & Simulation Automation Engineer** · *starting soon*
+- **Working Student in Software & Simulation Automation Engineer** · *current*
 
-Will announce soon:) Pretty excited.....!!
+--@Amprion GmbH, Hamburg. Supporting the HVDC Offshore Wind Park Connection
 
 ---
 
