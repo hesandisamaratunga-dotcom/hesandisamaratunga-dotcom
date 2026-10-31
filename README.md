@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm a fifth-semester **Information & Electrical Engineering** student at HAW Hamburg, focused on embedded systems, IoT, automation and power electronics. My favorite part of engineering is the whole chain: figuring out the architecture, wiring up the hardware, writing the code, and watching the data actually make sense.
+I'm a sixth-semester **Information & Electrical Engineering** student at HAW Hamburg, focused on embedded systems, IoT, automation and power electronics. My favorite part of engineering is the whole chain: figuring out the architecture, wiring up the hardware, writing the code, and watching the data actually make sense.
 
 - B.Sc. Information (& Electrical) Engineering
 - Sri Lankan, based in Hamburg, Germany
