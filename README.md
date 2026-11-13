@@ -78,6 +78,8 @@ Assisting the professor with laboratory material preparation for future work. Ha
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-1E415E?style=for-the-badge)
@@ -92,17 +94,21 @@ Assisting the professor with laboratory material preparation for future work. Ha
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Datacake](https://img.shields.io/badge/Datacake-1ABC9C?style=for-the-badge)
 
-**Electronics & Simulation**
+**Power Systems, Electronics & Simulation**
 
+![DIgSILENT PowerFactory](https://img.shields.io/badge/DIgSILENT%20PowerFactory-005B94?style=for-the-badge)
 ![LTSpice](https://img.shields.io/badge/LTSpice-8A2BE2?style=for-the-badge)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)
 ![Autodesk EAGLE](https://img.shields.io/badge/Autodesk%20EAGLE-0696D7?style=for-the-badge)
 
 **Tools**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
 ---
 
 ### Education
