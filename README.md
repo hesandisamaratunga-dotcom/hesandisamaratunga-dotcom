@@ -48,8 +48,11 @@ Part of the offshore grid connection electrical engineering team, supporting HVD
 power into the transmission grid.
 
   --Use DIgSILENT PowerFactory to manage wind park modules and support ongoing projects.
+  
   --Maintain and test Python scripts for automation.
+  
   -- Manage GitHub repositories, scripts and automation
+  
   --Review and prepare technical documentation for grid connection projects
 
 ---
