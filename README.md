@@ -43,7 +43,7 @@ Supporting the Applied Power Electronics elective, including switch-mode power s
 
 - **Working Student in Software & Simulation Automation Engineer** · *October 2026 - current*
 
---@Amprion GmbH, Hamburg. Supporting the HVDC Offshore Wind Park Connection.
+  --@Amprion GmbH, Hamburg. Supporting the HVDC Offshore Wind Park Connection.
 
 ---
 
