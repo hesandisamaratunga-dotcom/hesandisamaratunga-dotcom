@@ -43,7 +43,14 @@ Supporting the Applied Power Electronics elective, including switch-mode power s
 
 - **Working Student in Software & Simulation Automation Engineer** · *October 2026 - current*
 
-  --@Amprion GmbH, Hamburg. Supporting the HVDC Offshore Wind Park Connection.
+  --@Amprion GmbH, Hamburg. 
+Part of the offshore grid connection electrical engineering team, supporting HVDC offshore wind park connection projects that bring renewable wind
+power into the transmission grid.
+
+- Use DIgSILENT PowerFactory to manage wind park modules and support ongoing projects.
+- Maintain and test Python scripts for automation.
+- Manage GitHub repositories, scripts and automation
+- Review and prepare technical documentation for grid connection projects
 
 ---
 
