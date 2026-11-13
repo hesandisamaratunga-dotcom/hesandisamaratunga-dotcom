@@ -47,10 +47,10 @@ Supporting the Applied Power Electronics elective, including switch-mode power s
 Part of the offshore grid connection electrical engineering team, supporting HVDC offshore wind park connection projects that bring renewable wind
 power into the transmission grid.
 
-- Use DIgSILENT PowerFactory to manage wind park modules and support ongoing projects.
-- Maintain and test Python scripts for automation.
-- Manage GitHub repositories, scripts and automation
-- Review and prepare technical documentation for grid connection projects
+  --Use DIgSILENT PowerFactory to manage wind park modules and support ongoing projects.
+  --Maintain and test Python scripts for automation.
+  -- Manage GitHub repositories, scripts and automation
+  --Review and prepare technical documentation for grid connection projects
 
 ---
 
